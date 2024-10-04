@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Illona </h1>
 <h3 align="center">👩‍💻I believe in a world where opportunities are equal, dreams are boundless, and success is not defined by gender but by determination, hard-work and talent.
 <p>🚀An aspiring software engineer breaking barriers in tech. 
- I'm passionate about creating innovative solutions, fostering diversity in the tech world and building inclusive tech communities and empowering women in Ghana and beyond.</p>
+ I'm passionate about creating innovative solutions, fostering diversity in the tech world and building inclusive tech communities and empowering women in Ghana and beyond 🌍.</p>
  
  <img align="center" alt="Coding" width="400" src="https://i.ibb.co/WVFxDmF/oceanic-logo.png">
  
