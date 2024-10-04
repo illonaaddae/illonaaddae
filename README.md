@@ -1,6 +1,26 @@
 [![MasterHead](https://i.ibb.co/Xkh5NVJ/Banner.png)](https://i.ibb.co/Xkh5NVJ/Banner.png)
 <h1 align="center">Hi 👋, I'm Illona </h1>
-<h3 align="center">👩‍💻In a world of ‘can’t’s, She whispered ‘I can’, and in doing so, she became an unstoppable force! I am an aspiring  software engineer who is passionate about using technology to make a difference. I'm currently pursuing a Computer Science degree at Accra Technical University and have a strong foundation in building web applications that are both effective and enjoyable to use.</h3>
+<h3 align="center">👩‍💻I believe in a world where opportunities are equal, dreams are boundless, and success is not defined by gender but by determination, hard-work and talent.
+
+👋 Hey there,  I'm Illona, an aspiring software engineer breaking barriers in tech. 
+🚀 I'm passionate about creating innovative solutions, fostering diversity in the tech world and building inclusive tech communities and empowering women in Ghana and beyond.🌎
+
+✨ 🚀 Currently on a journey to master:
+
+<ul>
+ <li> Frontend Development (HTML, CSS, JavaScript, React, Angular)</li>
+<li> Backend Development (Node.js, Express.js, Python)</li>
+<li>Database Management (MongoDB)</li>
+<li>And everything in between! (UX/UI)</li>
+<li> <p>And the exciting frontiers of AI, Machine Learning, and Robotics! 🤖.</p> 
+<p>WIth a long-term goal of contributing to the development of ethical and responsible Al/ML solutions that benefit society.</p></li>
+</ul>
+
+💪 I believe that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering women and underrepresented groups to pursue careers in tech.
+
+👩‍🎓 Currently pursuing a Bachelor of Technology in Computer Science and constantly learning through platforms like Udemy, Codecademy, Coursera, and Frontend Masters.
+
+🎯 Setting the record straight and changing the narrative!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
 
 
