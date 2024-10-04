@@ -7,13 +7,14 @@
  <img align="center" alt="Coding" width="400" src="https://i.ibb.co/WVFxDmF/oceanic-logo.png">
  
 ✨ 🚀 Currently on a journey to master:
+
 <ul>
  <li> Frontend Development (HTML, CSS, JavaScript, React, Angular)</li>
-<li> Backend Development (Node.js, Express.js, Python)</li>
-<li>Database Management (MongoDB)</li>
-<li>And everything in between! (UX/UI)</li>
-<li> And the exciting frontiers of AI, Machine Learning, and Robotics! 🤖.
-WIth a long-term goal of contributing to the development of ethical and responsible Al/ML solutions that benefit society.</li>
+ <li> Backend Development (Node.js, Express.js, Python)</li>
+ <li>Database Management (MongoDB)</li>
+ <li>And everything in between! (UX/UI)</li>
+  <li> And the exciting frontiers of AI, Machine Learning, and Robotics! 🤖.
+  With a long-term goal of contributing to the development of ethical and responsible Al/ML solutions that benefit society.</li>
 </ul>
 
 💪 I believe that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering women and underrepresented groups to pursue careers in tech.
