@@ -8,7 +8,7 @@
  
 ✨ 🚀 Currently on a journey to master:
 
-<ul list-style-type: square>
+<ul style="list-style-type: square;">
  <li> Frontend Development (HTML, CSS, JavaScript, React, Angular)</li>
  <li> Backend Development (Node.js, Express.js, Python)</li>
  <li>Database Management (MongoDB)</li>
