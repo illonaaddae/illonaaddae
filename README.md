@@ -4,7 +4,7 @@
 <p>🚀An aspiring software engineer breaking barriers in tech. 
  I'm passionate about creating innovative solutions, fostering diversity in the tech world and building inclusive tech communities and empowering women in Ghana and beyond 🌍.</p>
  
- <img align="left" alt="Coding" width="400" src="https://i.ibb.co/WVFxDmF/oceanic-logo.png">
+ <img align="center" alt="Coding" width="400" src="https://i.ibb.co/WVFxDmF/oceanic-logo.png">
  
 ✨ 🚀 Currently on a journey to master:
 <ul>
