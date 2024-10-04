@@ -6,9 +6,8 @@
  I'm passionate about creating innovative solutions, fostering diversity in the tech world and building inclusive tech communities and empowering women in Ghana and beyond.🌎
  <br>
  <img align="center" alt="Coding" width="400" src="https://i.ibb.co/WVFxDmF/oceanic-logo.png">
-
+ 
 ✨ 🚀 Currently on a journey to master:
-
 <ul>
  <li> Frontend Development (HTML, CSS, JavaScript, React, Angular)</li>
 <li> Backend Development (Node.js, Express.js, Python)</li>
