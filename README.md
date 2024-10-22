@@ -1,27 +1,31 @@
 [![MasterHead](https://i.ibb.co/Xkh5NVJ/Banner.png)](https://i.ibb.co/Xkh5NVJ/Banner.png)
 <h1 align="center">Hi 👋, I'm Illona </h1>
-<h3 align="center">👩‍💻I believe in a world where opportunities are equal, dreams are boundless, and success is not defined by gender but by determination, hard-work and talent.
-<p>🚀An aspiring software engineer breaking barriers in tech. 
- I'm passionate about creating innovative solutions, fostering diversity in the tech world and building inclusive tech communities and empowering women in Ghana and beyond 🌍.</p>
+<h3 align="center">👩‍💻 I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent—not defined by gender. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world. 🌍
+ I'm an aspiring software engineer committed to creating innovative tech solutions, fostering diversity, and building communities that embrace everyone—regardless of background or gender. I am driven by a vision where women are recognized for their brilliance and impact in tech. 💪
+</p>
  <P>1 Timothy‬ ‭4‬:‭12 NIV</P>
  <img align="center" alt="Coding" width="400" src="https://i.ibb.co/WVFxDmF/oceanic-logo.png">
  
-✨ 🚀 Currently on a journey to master:
+✨ ✨ 🚀 Currently on a journey mastering:
 
 <ul style="list-style-type: square;">
- <li> Frontend Development (HTML, CSS, JavaScript, React, Angular)</li>
+ <li>Frontend Development (HTML, CSS, JavaScript, TypeScript, React, Angular & Vue)</li>
  <li> Backend Development (Node.js, Express.js, Python)</li>
  <li>Database Management (MongoDB)</li>
- <li>And everything in between! (UX/UI)</li>
-  <li> And the exciting frontiers of AI, Machine Learning, and Robotics! 🤖.
-  With a long-term goal of contributing to the development of ethical and responsible Al/ML solutions that benefit society.</li>
+ <li>UX/UI Design</li>
+  <li>  AI, Machine Learning, and Robotics 🤖 🤖.</li>
 </ul>
+🎯I’m on a mission to contribute to the development of ethical and responsible AI/ML solutions that benefit society, while empowering women and underrepresented groups to pursue careers in technology.
 
 💪 I believe that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering women and underrepresented groups to pursue careers in tech.
 
-👩‍🎓 Currently pursuing a Bachelor of Technology in Computer Science and constantly learning through platforms like Udemy, Codecademy, Coursera, and Frontend Masters.
+👩‍🎓💻 Ongoing journey:
+Pursuing a Bachelor of Technology in Computer Science and continuously learning through platforms like Udemy, Codecademy, Coursera, and Frontend Masters to stay ahead in the ever-evolving tech world.
 
-🎯 Setting the record straight and changing the narrative!</h3>
+
+🌟 Changing the narrative🎯:
+In a society where women are often underestimated, I am determined to shift the conversation. I believe technology is for everyone—gender, wealth, or background should never limit one’s potential to innovate and succeed. I’m here to prove that women can—and will—lead the way in shaping the future of tech.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
 
 
