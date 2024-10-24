@@ -15,7 +15,7 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 - **[Weather Forecast](https://github.com):**  Build a weather forecast application that displays current weather conditions.
 - **[Blog Platform](https://github.com):** Develop a basic blog platform where users can create, edit, delete, and view blog posts with user registration.
 - **[E-commerce Platform](https://github.com):** Create a full-fledged e-commerce platform where users can browse products, add to cart, and  purchases.
-- **[Image Recognition App](https://github.com):** Build a basic computer vision app that can identify objects like cars or pets in images using the OpenCV library.
+- **[Image Recognition App](https://github.com):** Build a basic computer vision app that can identify objects like cars or pets in images using the OpenCV.
 
 You can view these and more [here](https://illonaddae.github.io/#).
 
