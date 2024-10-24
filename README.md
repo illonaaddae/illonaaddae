@@ -12,10 +12,9 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 
 ## Key To Build Projects 📚
 - **[Portfolio Website](https://https://oceaniccodes.netlify.app/):** First version of my portifolio website.
-- **[Weather Forecast](https://github.com):**  Build a weather forecast application that displays current weather conditions and a 5-day forecast for a given location.
-- **[Blog Platform](https://github.com):** Develop a basic blog platform where users can create, edit, delete, and view blog posts with user registration and login functionality.
-- **[E-commerce Platform](https://github.com):** Create a full-fledged e-commerce platform where users can browse products, add them to their cart, and complete purchases. Should a user view for browsing and an owner view to add items and fulfill orders.
-
+- **[Weather Forecast](https://github.com):**  Build a weather forecast application that displays current weather conditions.
+- **[Blog Platform](https://github.com):** Develop a basic blog platform where users can create, edit, delete, and view blog posts with user registration.
+- **[E-commerce Platform](https://github.com):** Create a full-fledged e-commerce platform where users can browse products, add to cart, and complete purchases.
 - **[Image Recognition App](https://github.com):** Build a basic computer vision app that can identify objects like cars or pets in images using the OpenCV library.
 
 You can view these and more [here](https://illonaddae.github.io/#).
