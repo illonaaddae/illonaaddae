@@ -1,7 +1,7 @@
 👋 Hi, I'm I'm Illona Addae! I’m the Founder and Executive Director. at **Slint Tech** 🎖️ and a software engineer focused on harnessing technology to make significant impacts in the tech industry and building communities that embrace everyone regardless of background or gender. I am driven by a vision where women are recognized for their brilliance and impact in tech💪. **1 Timothy‬ ‭4‬:‭12 NIV**
 
 ## About Me
-I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent—not defined by gender. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world.
+I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent—not defined by gender. And that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering women and underrepresented groups to pursue careers in tech. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world.
 
 ## Technical Skills 🛠️
 - **Markup languages:** HTML, CSS 
@@ -18,9 +18,6 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 - **[Image Recognition App](https://github.com):** Build a basic computer vision app that can identify objects like cars or pets in images using the OpenCV.
 
 You can view these and more [here](https://illonaddae.github.io/#).
-
-## My Believe 🌟
-- I believe that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering women and underrepresented groups to pursue careers in tech.
 
 ## Leadership & Advocacy 🌟
 - **Slint Tech:** As the Executive Director, I stand transformed traditional educational models by integrating advanced technology and the best online learning platform better serve organization.
