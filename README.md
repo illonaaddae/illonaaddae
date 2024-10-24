@@ -29,11 +29,8 @@ You can view these and more [here](https://illonaddae.github.io/#).
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+-  **Society:** In a society where women are often underestimated, I am determined to shift the conversation. I believe technology is for everyone—gender, wealth, or background should never limit one’s potential to innovate and succeed. I’m here to prove that women can and will lead the way in shaping the future of tech.
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
-
-##  Mission 🎯:
-- **Society:** In a society where women are often underestimated, I am determined to shift the conversation. I believe technology is for everyone—gender, wealth, or background should never limit one’s potential to innovate and succeed. I’m here to prove that women can—and will—lead the way in shaping the future of tech.
-- **Future:** Looking forward to contribute to the development of ethical and responsible AI/ML solutions that benefit society.
 
 ## Connect with Me 📬
 - 🐦 [Twitter](https://x.com/illonaaddae)
