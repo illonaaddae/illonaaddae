@@ -45,7 +45,7 @@ I’m looking forward to collaborating on projects that are at the intersection 
 
 
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,py,ts,react,vue,nextjs,nodejs,express,MongoDB,MySQL,azure,aws,gcp,tensorflow,git,notion,npm,graphql,figma,vscode,pycharm&perline=5)](https://skillicons.dev)<img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,py,ts,react,angular,vue,nextjs,nodejs,express,MongoDB,MySQL,azure,aws,gcp,tensorflow,git,notion,npm,graphql,vscode,pycharm&perline=5)](https://skillicons.dev)<img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
 
 
 
