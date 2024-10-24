@@ -11,7 +11,7 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 - **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
 ## Key To Build Projects 📚
-- **[Portfolio Website](https://https://oceaniccodes.netlify.app/):** First version of my portifolio website.
+- **[Portfolio Website](https://https://oceaniccodes.netlify.app/):** Build version 2.0 of my Portfolio Website .
 - **[Weather Forecast](https://github.com):**  Build a weather forecast application that displays current weather conditions.
 - **[Blog Platform](https://github.com):** Develop a basic blog platform where users can create, edit, delete, and view blog posts with user registration.
 - **[E-commerce Platform](https://github.com):** Create a full-fledged e-commerce platform where users can browse products, add to cart, and  purchases.
