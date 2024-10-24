@@ -1,66 +1,53 @@
-[![MasterHead](https://i.ibb.co/Xkh5NVJ/Banner.png)](https://i.ibb.co/Xkh5NVJ/Banner.png)
-<h1 align="center">Hi 👋, I'm Illona </h1>
-<h3 align="center">👩‍💻 I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent—not defined by gender. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world. 🌍
- I'm an aspiring software engineer committed to creating innovative tech solutions, fostering diversity, and building communities that embrace everyone—regardless of background or gender. I am driven by a vision where women are recognized for their brilliance and impact in tech. 💪
-</p>
- <P>1 Timothy‬ ‭4‬:‭12 NIV</P>
- <img align="center" alt="Coding" width="400" src="https://i.ibb.co/WVFxDmF/oceanic-logo.png">
- 
-✨ ✨ 🚀 Currently on a journey mastering:
+👋 Hi, I'm I'm Illona Addae! I’m the Founder and Executive Director. at **Slint Tech** 🎖️ and a software engineer focused on harnessing technology to make significant impacts in the tech industry and building communities that embrace everyone—regardless of background or gender. I am driven by a vision where women are recognized for their brilliance and impact in tech💪. **1 Timothy‬ ‭4‬:‭12 NIV**
 
-<ul style="list-style-type: square;">
- <li>Frontend Development (HTML, CSS, JavaScript, TypeScript, React, Angular & Vue)</li>
- <li> Backend Development (Node.js, Express.js, Python)</li>
- <li>Database Management (MongoDB)</li>
- <li>UX/UI Design</li>
-  <li>  AI, Machine Learning, and Robotics 🤖 🤖.</li>
-</ul>
-🎯I’m on a mission to contribute to the development of ethical and responsible AI/ML solutions that benefit society, while empowering women and underrepresented groups to pursue careers in technology.
+## About Me
+I believe in a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent—not defined by gender. Growing up in Ghana, I witnessed how access to technology could transform lives and empower communities. This ignited my passion for breaking barriers in tech and advocating for a more inclusive, diverse tech world.
 
-💪 I believe that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering women and underrepresented groups to pursue careers in tech.
+## Technical Skills 🛠️
+- **Markup languages:** HTML, CSS 
+- **Languages:** JavaScript, Python, TypeScript
+- **Frameworks & Libraries:** React, Vue, Angular, Next.js, Node.js, FastAPI
+- **Tools & Platforms:** GitHub, Docker, Azure, Vercel, Google Cloud, MongoDB, MySQL OpenAI
+- **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
-👩‍🎓💻 Ongoing journey:
-Pursuing a Bachelor of Technology in Computer Science and continuously learning through platforms like Udemy, Codecademy, Coursera, and Frontend Masters to stay ahead in the ever-evolving tech world.
+## Key To Build Projects 📚
+- **[Portfolio Website](https://https://oceaniccodes.netlify.app/):** First version of my portifolio website.
+- **[Weather Forecast](https://github.com):**  Build a weather forecast application that displays current weather conditions and a 5-day forecast for a given location.
+- **[Blog Platform](https://github.com):** Develop a basic blog platform where users can create, edit, delete, and view blog posts with user registration and login functionality.
+- **[E-commerce Platform](https://github.com):** Create a full-fledged e-commerce platform where users can browse products, add them to their cart, and complete purchases. Should a user view for browsing and an owner view to add items and fulfill orders.
+
+- **[Image Recognition App](https://github.com):** Build a basic computer vision app that can identify objects like cars or pets in images using the OpenCV library.
+
+You can view these and more [here](https://illonaddae.github.io/#).
+
+## My Believe 🌟
+- I believe that technology should be accessible to everyone, regardless of their background. That's why I'm committed to empowering women and underrepresented groups to pursue careers in tech.
+
+## Leadership & Advocacy 🌟
+- **Slint Tech:** As the Executive Director, I stand transformed traditional educational models by integrating advanced technology and the best online learning platform better serve organization.
+- **Community Engagement:** Building a robust community of tech professionals and students, facilitating mentorship, networking, and career opportunities. 🤝
+- **Public Speaking:** Regular speaker at tech conferences, advocating for a world where opportunities are equal, dreams are boundless, and success is driven by determination, hard work, and talent—not defined by gender. 🎤
+
+## Professional Goals 🚀
+- **Career Development:** Focused on furthering my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+
+##  Mission 🎯:
+- **Society:** In a society where women are often underestimated, I am determined to shift the conversation. I believe technology is for everyone—gender, wealth, or background should never limit one’s potential to innovate and succeed. I’m here to prove that women can—and will—lead the way in shaping the future of tech.
+- **Future:** Looking forward to contribute to the development of ethical and responsible AI/ML solutions that benefit society.
+
+## Connect with Me 📬
+- 🐦 [Twitter](https://x.com/illonaaddae)
+- 📫 [Email](mailto:addaeillona@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/illona-addae-oceaiccodes)
+- 🔗 [Instagram](https://www.instagram.com/oceaniccoder)
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
 
-🌟 Changing the narrative🎯:
-In a society where women are often underestimated, I am determined to shift the conversation. I believe technology is for everyone—gender, wealth, or background should never limit one’s potential to innovate and succeed. I’m here to prove that women can—and will—lead the way in shaping the future of tech.
-</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,py,ts,react,vue,nextjs,nodejs,express,MongoDB,MySQL,azure,aws,gcp,tensorflow,git,notion,npm,graphql,figma,vscode,pycharm&perline=5)](https://skillicons.dev)<img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=illonaaddae&label=Profile%20views&color=0e75b6&style=flat" alt="illonaaddae" /> </p>
 
-<p align="left"> <a href="https://twitter.com/illonaaddae" target="blank"><img src="https://img.shields.io/twitter/follow/illonaaddae?logo=twitter&style=for-the-badge" alt="illonaaddae" /></a> </p>
-
-- 🌱 I’m currently learning **React,Node.js, Python**
-
-- 👨‍💻 All of my projects are available at (https://oceaniccodes.netlify.app/)
-
-- 💬 Ask me about **JavaScript, React, Node.js and Python**
-
-- 📫 How to reach me **addaeillona@gmail.com**
-
-- 📄 Know about my experiences (https://oceaniccodes.netlify.app/)
-
-- ⚡ Fun fact **I believe that great design is essential for a great user experience. And I'm always looking for new and innovative ways to solve challenges.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/illona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="illona" height="30" width="40" /></a>
-<a href="https://twitter.com/illonaaddae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="illonaaddae" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/illona-addae-oceaiccodes?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="illona addae" height="30" width="40" /></a>
-<a href="https://instagram.com/oceaniccoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oceaniccoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@CodingWithIllona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingwithillona" height="30" width="40" /></a>
-
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illonaaddae&show_icons=true&locale=en&layout=compact" alt="illonaaddae" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illonaaddae&show_icons=true&locale=en" alt="illonaaddae" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=illonaaddae&" alt="illonaaddae" /></p>
 
