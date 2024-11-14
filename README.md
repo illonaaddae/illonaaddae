@@ -6,8 +6,9 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 ## Technical Skills 🛠️
 - **Markup languages:** HTML, CSS 
 - **Languages:** JavaScript, Python, TypeScript
-- **Frameworks & Libraries:** React, Vue, Angular, Next.js, Node.js, FastAPI
-- **Tools & Platforms:** GitHub, Docker, Azure, Vercel, Google Cloud, MongoDB, MySQL OpenAI
+- **Frameworks & Libraries:** React, Vue, Angular, Next.js, Node.js, FastAPI, GraphQL
+- **Tools & Platforms:** GitHub, Docker, Azure, Vercel, Google Cloud Platform(GCP), Kubernetes, OpenAI
+-  **Databases:** MongoDB, PostgreSQL
 - **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
 ## Key To Build Projects 📚
