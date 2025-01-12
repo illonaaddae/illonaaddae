@@ -5,7 +5,7 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 
 ## Technical Skills 🛠️
 - **Markup languages:** HTML, CSS 
-- **Languages:** JavaScript, Python, TypeScript
+- **Languages:** JavaScript, Python, TypeScript, Java
 - **Frameworks & Libraries:** React, Vue, Angular, Next.js, Node.js, FastAPI, GraphQL
 - **Tools & Platforms:** GitHub, Docker, Azure, Vercel, Google Cloud Platform(GCP), Kubernetes, OpenAI
 -  **Databases:** MongoDB, PostgreSQL
