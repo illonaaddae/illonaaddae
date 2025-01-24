@@ -31,7 +31,7 @@ You can view these and more [here](https://illonaddae.github.io/#).
 - **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
 ## Connect with Me 📬
-- 🐦 [Twitter](https://linktr.ee/i.am_illona)
+- 🐦 [My Socials](https://linktr.ee/i.am_illona)
 - 📫 [Email](mailto:addaeillona@gmail.com)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
