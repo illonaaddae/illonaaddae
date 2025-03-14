@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hello%2C+I+am+Illona+Addae+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%99%8B%E2%80%8D%E2%99%80%EF%B8%8F+Hello%2C++I'm++Illona+Addae+.%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;%F0%9F%98%8A+You+can+call+me++%22Oceaniccoder%22.+%E2%9C%8C%EF%B8%8F)](https://git.io/typing-svg)
 
 I’m the Founder and Executive Director at **Slint Tech** 🎖️ and a software engineer focused on harnessing technology to make significant impacts in the tech industry and building communities that embrace everyone regardless of background or gender. I am driven by a vision where women are recognized for their brilliance and impact in tech💪. **1 Timothy‬ ‭4‬:‭12 NIV**
 
