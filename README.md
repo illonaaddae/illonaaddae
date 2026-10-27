@@ -13,6 +13,12 @@ I believe in a world where opportunities are equal, dreams are boundless, and su
 -  **Databases:** MongoDB, PostgreSQL
 - **Data Science & AI:** Proficient in machine learning concepts and data analysis, applying these to optimize educational outcomes.
 
+## 🤖 AI and Machine Learning
+
+<p align="center"><img src="./assets/ai-journey.svg" alt="My AI and Machine Learning journey: a robot waves hello next to a neural network. The path: Python, Data Engineering, Data Science, Machine Learning, Applied AI, Robotics." width="100%" /></p>
+
+I work with machine learning concepts and data analysis, and I'm growing from Python into data engineering, data science, machine learning, applied AI and robotics, with a focus on using them to improve educational outcomes.
+
 ## Key To Build Projects 📚
 - **[Portfolio Website](https://oceaniccoder.dev/):** Build version 2.0 of my Portfolio Website .
 - **[Weather Forecast](https://github.com):**  Build a weather forecast application that displays current weather conditions.
@@ -38,10 +44,4 @@ You can view these and more [here](https://illonaddae.github.io/#).
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
-
-
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,py,ts,react,angular,vue,nextjs,nodejs,express,MongoDB,MySQL,azure,aws,gcp,tensorflow,git,notion,npm,graphql,vscode,pycharm&perline=5)](https://skillicons.dev)<img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
-
-
-
-
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,py,java,react,nextjs,vue,angular,nodejs,express,fastapi,graphql,mongodb,postgres,mysql,docker,kubernetes,azure,gcp,aws,vercel,tensorflow,git,github,npm,notion,vscode,pycharm&perline=8)](https://skillicons.dev)<img align="right" alt="Coding" width="400" src="https://i.ibb.co/5smmsfv/cta.jpg">
